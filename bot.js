@@ -43,4 +43,4 @@ if (message.content.startsWith(adminprefix + 'streaming')) {
 
 
 
-client.login(NTQyMDE3MjQxMzc4NTg2NjQ1.Dzow4Q.LfbPY_Y5rO7YpJ4dTQubmL6p6hc);
+client.login(NTQyMDAwNDc2Njg2OTA5NDQw.DzoiGw.hbafFwXInhSEfDwjPLeIIb0mrVY);
